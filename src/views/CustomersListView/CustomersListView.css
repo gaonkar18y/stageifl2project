@@ -1,0 +1,12 @@
+#CustomersListView {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.homeBrandImage {
+    margin: 5px;
+}

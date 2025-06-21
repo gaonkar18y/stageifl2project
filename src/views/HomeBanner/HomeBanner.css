@@ -1,0 +1,33 @@
+#HomeBannerContainer{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(240, 236, 236);
+    padding-top: 30px;
+}
+
+#ShopNowButton{
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.HomeBannerSubContainer{
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#bannerImage{
+    width: 424px;
+    height:542px
+}
+
+#collectionsTitle{
+    margin-bottom: 20px;
+}
+
+#collectionsSubTitle{
+    margin-bottom: 20px;
+}
